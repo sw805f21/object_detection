@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>nice15.jpg</filename>
+	<path>E:\GithubEDrive\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\nice15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>471</xmin>
+			<ymin>317</ymin>
+			<xmax>556</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

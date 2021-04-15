@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>go_2.jpg</filename>
+	<path>E:\GithubEDrive\RealTimeObjectDetection\Tensorflow\workspace\images\train\go_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>go</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>139</ymin>
+			<xmax>188</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

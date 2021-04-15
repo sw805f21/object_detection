@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>butterfly5.jpg</filename>
+	<path>E:\GithubEDrive\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\butterfly5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>butterfly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>321</ymin>
+			<xmax>438</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

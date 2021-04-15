@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>drink_25.jpg</filename>
+	<path>E:\GithubEDrive\RealTimeObjectDetection\Tensorflow\workspace\images\train\drink_25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>238</width>
+		<height>237</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>6</ymin>
+			<xmax>155</xmax>
+			<ymax>52</ymax>
+		</bndbox>
+	</object>
+</annotation>

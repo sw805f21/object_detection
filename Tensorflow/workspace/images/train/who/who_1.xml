@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>who_1.jpg</filename>
+	<path>E:\GithubEDrive\RealTimeObjectDetection\Tensorflow\workspace\images\train\who_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>who</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>134</ymin>
+			<xmax>376</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>

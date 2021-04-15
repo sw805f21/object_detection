@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>go</folder>
+	<filename>go_30.jpg</filename>
+	<path>E:\GithubEDrive\RealTimeObjectDetection\Tensorflow\workspace\images\go_30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1260</width>
+		<height>941</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>go</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>247</ymin>
+			<xmax>707</xmax>
+			<ymax>747</ymax>
+		</bndbox>
+	</object>
+</annotation>

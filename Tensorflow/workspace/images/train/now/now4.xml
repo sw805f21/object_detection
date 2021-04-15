@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>now4.jpg</filename>
+	<path>E:\GithubEDrive\RealTimeObjectDetection\Tensorflow\workspace\images\train\now4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>now</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>203</ymin>
+			<xmax>273</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

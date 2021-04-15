@@ -1,0 +1,24 @@
+item { 
+	name:'chair'
+	id:1
+}
+item { 
+	name:'drink'
+	id:2
+}
+item { 
+	name:'go'
+	id:3
+}
+item { 
+	name:'now'
+	id:4
+}
+item { 
+	name:'who'
+	id:5
+}
+item { 
+	name:'yes'
+	id:6
+}
